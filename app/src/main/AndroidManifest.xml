@@ -17,9 +17,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".tabHost" />
+        <activity android:name=".TabHostActivity" />
         <activity android:name=".WebViewActivity" />
-        <activity android:name=".ListViewActivity"></activity>
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".ScrollViewActivity" />
+        <activity android:name=".RadioGroupActivity" />
+        <activity android:name=".GridViewActivity" />
+        <activity android:name=".ExpandableListViewActivity" />
+        <activity android:name=".SearchViewActivity"></activity>
     </application>
 
 </manifest>
