@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TabHost;
 import android.widget.TextView;
 
-public class TabHostActivity extends AppCompatActivity {
+public class tabHost extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
